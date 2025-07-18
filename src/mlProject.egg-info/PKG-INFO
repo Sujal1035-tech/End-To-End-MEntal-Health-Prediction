@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/Sujal1035-tech/End-To-End-MEntal-Health-Prediction
+Author: Sujal1035-tech
+Author-email: sujalkhant4@gmail.com
+Project-URL: Bug Tracker, https://github.com/Sujal1035-tech/End-To-End-MEntal-Health-Prediction/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
